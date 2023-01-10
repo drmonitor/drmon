@@ -1,0 +1,11 @@
+alembic
+bcrypt
+email-validator
+emails
+fastapi
+httpx
+python-dateutil
+sqlalchemy-filters
+sqlalchemy-utils
+sqlalchemy
+uvicorn

@@ -1,6 +1,9 @@
 # Apple
 .DS_Store
 
+# Docs
+docs/internal/*
+
 # PyCharm
 .idea
 
